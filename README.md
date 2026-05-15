@@ -1,1 +1,1 @@
-# object-detiction
+# object-ditection
